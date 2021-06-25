@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="700" height="300" alt="Frontend Developer" src="https://i.imgur.com/VApkZo6.jpeg">
+  <img width="700" height="250" alt="Frontend Developer" src="https://i.imgur.com/VApkZo6.jpeg">
 </p>
 
 
