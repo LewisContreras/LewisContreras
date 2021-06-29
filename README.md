@@ -14,7 +14,7 @@
 
 
 I enjoy learning new things and constantly developing new projects.
-[Here](https://lewiscontreras.github.io/) you can see my personal portfolio.
+You can see my personal portfolio [here](https://lewiscontreras.github.io/).
 
 
 Skills:  REACT / FIREBASE / REDUX / JS 
