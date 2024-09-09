@@ -17,10 +17,4 @@ I enjoy learning new things and constantly developing new projects.
 You can see my personal portfolio [here](https://lewiscontreras.github.io/).
 
 
-Skills:  REACT / FIREBASE / REDUX / JS 
-
-- 🔭 I’m currently working on my personal portfolio. 
-- 🌱 I’m currently learning NextJS. 
-
-
-
+Skills:  REACT / REDUX / TS 
